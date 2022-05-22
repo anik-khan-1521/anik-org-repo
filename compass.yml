@@ -1,0 +1,14 @@
+name: Swagger-UI
+id: 'ari:cloud:compass:8d465811-862a-4e6f-bdab-5706eac223dd:component/815ddb7f-ac67-45e0-878d-a98e952741f1/db5e26f5-0179-47fc-ac62-4b642b3b3b7f'
+description: description
+ownerId: 'ari:cloud:teams::team/77d0c6a9-e6f7-410f-b519-27ec6533b74e'
+fields:
+  tier: 4
+links:
+  - name: ''
+    type: OTHER_LINK
+    url: 'https://st3iga.surge.sh/swagger.json'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
